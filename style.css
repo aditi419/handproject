@@ -1,0 +1,36 @@
+body {
+  color: white;
+  background: #2d7c8f;
+}
+
+span {
+  font-size: 30px;
+}
+
+#camera,
+#result {
+  width: 350px;
+  height: 300px;
+  border: 2px solid white;
+}
+
+.object_name,
+#result_object_name {
+  font-size: 40px;
+  color: black;
+}
+
+.heading {
+  font-size: 18px;
+  border-radius: 10;
+  letter-spacing: 10;
+}
+
+label {
+  font-size: 14px;
+  color: black;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+
